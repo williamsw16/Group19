@@ -14,4 +14,7 @@ The best K is 4 using the KElbowVisualizer.  The values of K tried ranged from 1
 
 ### The best K accuracy
 
-The accuracy is usually 100%.  This seems to be because the standard deviation settings are low enough to allow for very well-defined clusters. I did increase the standard deviation setting in the make_blobs function call in a few runs of the program to see the effect on accuracy and the confusion matrix.
+The accuracy is usually 100%.  This seems to be because the standard deviation settings are low enough to allow for very well-defined clusters. I did increase the standard deviation setting in the make_blobs function call in a few runs of the program to see the effect on accuracy and the confusion matrix.  I also tried it with more points which also caused a lower accuracy.
+
+### Confusion Matrix
+![Confusion Matrix](HW2_Confusion_Matrix.png "Confusion Matrix")
