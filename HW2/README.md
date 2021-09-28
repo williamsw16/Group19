@@ -2,8 +2,8 @@
 
 ## Team 19
 
-Wesley Williams <williamsw16@students.ecu.edu>
-Jared Stanley <standleyja19@students.ecu.edu>
+-Wesley Williams <williamsw16@students.ecu.edu>
+-Jared Stanley <standleyja19@students.ecu.edu>
 
 ### Quick Start
 
